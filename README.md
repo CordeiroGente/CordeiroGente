@@ -1,4 +1,4 @@
-# 🐑 Pedro Henrique "Cordeiro Gente" Perrenchelle
+# 🐑 Pedro Henrique Perrenchelle "Cordeiro Gente"
 
 
 
@@ -42,7 +42,7 @@ $ brain --status
 > Existential Crisis: Loading... ⏳
 > Code Logic: Functional ✓
 > Social Battery: 23% 🔋
-> Vibe Check: Passed ✅
+> ERROR: Non rational creature
 ```
 
 
@@ -122,7 +122,7 @@ def daily_routine():
 ## 🎯 Life Philosophy
 > *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
 > 
-> *"Down we go"* 🕳️
+> *"I lack braincells and the mental stability to function on a daily basis"* 🕳️
 
 ```
 ┌─────────────────────────────────────┐
@@ -135,7 +135,7 @@ def daily_routine():
 ---
 
 
-*Membro desde 8 de outubro de 2020 • São José dos Campos - SP*
+* São José dos Campos - SP*
 
 **"Se você chegou até aqui, parabéns! Você tem mais paciência que meus bugs."**
 
