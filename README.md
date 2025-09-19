@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github.com/CordeiroGente/Imagens/blob/main/My_Creations/PC.jpg?raw=true" width="300px">
+</div>
 
 <div align="center">
 
@@ -137,10 +138,9 @@ def daily_routine():
 │  🐑 Cordeiro por natureza           │
 └─────────────────────────────────────┘
 ```
-
+</div>
 ---
-
-<div align="center">
+<div
 
 *Membro desde 8 de outubro de 2020 • São José dos Campos - SP*
 
