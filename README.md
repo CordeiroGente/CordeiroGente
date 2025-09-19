@@ -1,5 +1,13 @@
 # 🐑 Pedro Henrique "Cordeiro Gente" Perrenchelle
 
+
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Amo+fazer+de+meu+ego+o+separador;de+uma+linha+t%C3%AAnue+entre+raz%C3%A3o+e+ilus%C3%A3o;Down+we+go...+%F0%9F%95%B3%EF%B8%8F)
+
+</div>
+
 ```ascii
     ╔══════════════════════════════════════════════════════════╗
     ║  "No Think. Head Empty" - Jogando para esquecer prazos   ║
@@ -8,28 +16,35 @@
 
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Confuso;Down+we+go...+🐰;47%3A03%3A45+jogando+meu+Linux+pela+janela...)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Confuso;Way+down+we+go...+🐰;Jogando+meu+Linux+pela+janela...,No+think+head+empy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)](https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)
 [![Instagram](https://img.shields.io/badge/Instagram-@cordeiro__gente-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordeiro_gente/)
-[![Discord](https://img.shields.io/badge/Discord-Destrotier400%234364-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-placophobia%234364-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 </div>
 
-## 🎮 Status Atual
-```yaml
-São José dos Campos - SP - Brasil 🇧🇷
-"No Think. Head Empy" ✨
-```
-
 ## 🚀 Sobre Este Ser Humano (Provavelmente)
 
-**CordeiroGente**, Colecionando profissional de bugs  e tentando entender por que meu código funciona às 3h da manhã mas não funciona às 9h.
+**CordeiroGente**, Colecionando profissional de bugs e tentando entender por que meu código funciona só se ter um jpg de um coco nos arquivos.
 
 ### 🎯 Especialidades Atuais:
-- **Colecionador de Estudos**
-- **Desenvolvedor C/Python**: Quando não estou jogando, estou debugando
-- **Gaming Enthusiast**: tudo que me faça esquecer das deadlines
+- **Colecionador de Estudos** 
+- **Desenvolvedor Go/Python**
+- **Devia colocar mais coisas**
+- **vou me esconder falando que essa é a Beta do README**
+- 😎
+
+## 🧠 Mental State
+```bash
+$ brain --status
+> No Think. Head Empty ✓
+> Existential Crisis: Loading... ⏳
+> Code Logic: Functional ✓
+> Social Battery: 23% 🔋
+> Vibe Check: Passed ✅
+```
+
 
 ## 💻 Tech Stack & Ferramentas
 
@@ -63,29 +78,20 @@ São José dos Campos - SP - Brasil 🇧🇷
 
 <div align="center">
 
-[![Nada](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Trabalho-Pim&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)]()
-[![Ainda...](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Study&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)]()
+[![Nada](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Trabalho-Pim&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
+[![Ainda...](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Study&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
 
 </div>
-
-## 🎵 Currently Vibing To
-```
-🎶 Now Playing: DINNER! - femtanyl
-⏱️  Duration: 00:46 / 02:16
-🔊 Volume: ████████░░ 80%
-🔁 Repeat: ON | 🔀 Shuffle: OFF
-```
 
 ## 📈 Filosofia de Vida & Metas
 
 > *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
 
 ### 🎯 Objetivos 2024-2025:
-- [ ] Transformar PisyIA em uma empresa real (ainda que inútil)
-- [ ] Descobrir o que tem no repositório "Study" 
+- [ ] Descobrir o que tem debaixo da minha cama 
 - [ ] Conseguir explicar por que meu código funciona
-- [ ] Alcançar 100h jogando Linux
-- [ ] Criar mais empresas imaginárias
+- [ ] Criar um Rice no Hyperland
+- [x] Viver no mundo da imaginação
 - [x] Manter o mindset "No Think. Head Empty"
 
 ## 🤝 Conecte-se Comigo!
@@ -94,8 +100,8 @@ São José dos Campos - SP - Brasil 🇧🇷
 
 [![LinkedIn Badge](https://img.shields.io/badge/Vamos_Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)
 [![Instagram Badge](https://img.shields.io/badge/Vida_Paralela-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordeiro_gente/)
+[![Discord](https://img.shields.io/badge/Discord-placophobia%234364-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
-**Discord**: `placophobia`
 
 </div>
 
