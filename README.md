@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/CordeiroGente/Imagens/blob/main/My_Creations/PC.jpg?raw=true" width="600px">
+  <img src="https://github.com/CordeiroGente/Imagens/blob/main/My_Creations/PC.jpg?raw=true" width="300px">
 
 <div align="center">
 
