@@ -83,10 +83,6 @@ $ brain --status
 
 </div>
 
-## 📈 Filosofia de Vida & Metas
-
-> *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
-
 ### 🎯 Objetivos 2024-2025:
 - [ ] Descobrir o que tem debaixo da minha cama 
 - [ ] Conseguir explicar por que meu código funciona
