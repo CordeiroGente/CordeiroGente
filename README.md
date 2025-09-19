@@ -1,15 +1,6 @@
 # 🐑 Pedro Henrique "Cordeiro Gente" Perrenchelle
 
 
-```ascii
-    ╭─────────────────────────────────────────────────╮
-    │  🎮 Loading player stats...                     │
-    │  ██████████████████████████████████████ 404%    │
-    │  "No Think. Head Empty"                         │
-    │  Mood: Jogando para esquecer prazos             │
-    ╰─────────────────────────────────────────────────╯
-```
-
 <div align="center">
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Confuso;Way+down+we+go...+🐰;Jogando+meu+Linux+pela+janela...,No+think+head+empy)
