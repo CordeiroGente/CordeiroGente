@@ -122,9 +122,6 @@ def daily_routine():
 ```
 
 ---
-
-
-<div align="center">
     
 ## 🎯 Life Philosophy
 > *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
@@ -138,14 +135,12 @@ def daily_routine():
 │  🐑 Cordeiro por natureza           │
 └─────────────────────────────────────┘
 ```
-</div>
+
 ---
-<div
+
 
 *Membro desde 8 de outubro de 2020 • São José dos Campos - SP*
 
 **"Se você chegou até aqui, parabéns! Você tem mais paciência que meus bugs."**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CordeiroGente&color=blueviolet&style=for-the-badge)
-
-</div>
