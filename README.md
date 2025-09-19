@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Sonhador;Construindo+empresas+imaginárias;Down+we+go...+🐰;47%3A03%3A45+jogando+Linux...)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Confuso;Down+we+go...+🐰;47%3A03%3A45+jogando+meu+Linux+pela+janela...)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)](https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)
 [![Instagram](https://img.shields.io/badge/Instagram-@cordeiro__gente-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordeiro_gente/)
@@ -105,8 +105,8 @@ São José dos Campos - SP - Brasil 🇧🇷
 
 ```
     💭 "Down we go..." 
-    ⚡ Powered by caffeine, music, and existential questioning
-    🐑 Cordeiro mas Gente - Paradoxo desde 2020
+    ⚡ Powered by caffeine, music, and existential (cry)sis
+    🐑 Cordeiro mas Gente
 ```
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=CordeiroGente%2FCordeiroGente&labelColor=%23000000&countColor=%2300ff7f&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=CordeiroGente%2FCordeiroGente)
