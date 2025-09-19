@@ -1,17 +1,13 @@
 # 🐑 Pedro Henrique "Cordeiro Gente" Perrenchelle
 
 
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Amo+fazer+de+meu+ego+o+separador;de+uma+linha+t%C3%AAnue+entre+raz%C3%A3o+e+ilus%C3%A3o;Down+we+go...+%F0%9F%95%B3%EF%B8%8F)
-
-</div>
-
 ```ascii
-    ╔══════════════════════════════════════════════════════════╗
-    ║  "No Think. Head Empty" - Jogando para esquecer prazos   ║
-    ╚══════════════════════════════════════════════════════════╝
+    ╭─────────────────────────────────────────────────╮
+    │  🎮 Loading player stats...                     │
+    │  ██████████████████████████████████████ 404%    │
+    │  "No Think. Head Empty"                         │
+    │  Mood: Jogando para esquecer prazos             │
+    ╰─────────────────────────────────────────────────╯
 ```
 
 <div align="center">
@@ -30,10 +26,18 @@
 
 ### 🎯 Especialidades Atuais:
 - **Colecionador de Estudos** 
-- **Desenvolvedor Go/Python**
+- **Desenvolvedor Python**
 - **Devia colocar mais coisas**
-- **vou me esconder falando que essa é a Beta do README**
+- **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
+
+## 🎵 Currently Vibing To
+```yaml
+Now Playing: femtanyl
+Progress: ███████░░░░░░░░░░░░░ 00:46 / 02:16
+Volume: ████████░░ 80%
+Mood: Chaotic Good
+```
 
 ## 🧠 Mental State
 ```bash
@@ -107,16 +111,46 @@ $ brain --status
 
 ---
 
+## 🌟 Daily Routine
+```python
+def daily_routine():
+    while True:
+        brain.think(False)  # Think is Bad
+        code.debug(randomly=True)
+        game.play(["Linux", "Dark Souls", "Barotrauma"])
+        music.listen("femtanyl")
+        existential_crisis.ponder()
+        if mood == "chaotic":
+            create_new_repo("How to Drink Water")
+        sleep(optional=True)
+```
+
+---
+
+
+<div align="center">
+    
+## 🎯 Life Philosophy
+> *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
+> 
+> *"Down we go"* 🕳️
+
+```
+┌─────────────────────────────────────┐
+│  🎮 Gamer por vocação               │
+│  💻 Programador por desafios        │
+│  🐑 Cordeiro por natureza           │
+└─────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
 
-```
-    💭 "Down we go..." 
-    ⚡ Powered by caffeine, music, and existential (cry)sis
-    🐑 Cordeiro mas Gente
-```
+*Membro desde 8 de outubro de 2020 • São José dos Campos - SP*
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=CordeiroGente%2FCordeiroGente&labelColor=%23000000&countColor=%2300ff7f&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=CordeiroGente%2FCordeiroGente)
+**"Se você chegou até aqui, parabéns! Você tem mais paciência que meus bugs."**
 
-*"Se você chegou até aqui, parabéns! Você tem mais paciência que meus códigos têm bugs."*
+![Visitor Count](https://komarev.com/ghpvc/?username=CordeiroGente&color=blueviolet&style=for-the-badge)
 
 </div>
