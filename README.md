@@ -1,6 +1,10 @@
 # 🐑 Pedro Henrique "Cordeiro Gente" Perrenchelle
 
 
+
+<div align="center">
+  <img src="https://github.com/CordeiroGente/Imagens/blob/main/My_Creations/PC.jpg?raw=true" width="600px">
+
 <div align="center">
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Gamer+%7C+Confuso;Way+down+we+go...+🐰;Jogando+meu+Linux+pela+janela...,No+think+head+empy)
