@@ -86,7 +86,7 @@ $ brain --status
 ### 🎯 Objetivos 2024-2025:
 - [ ] Descobrir o que tem debaixo da minha cama 
 - [ ] Conseguir explicar por que meu código funciona
-- [ ] Criar um Rice no Hyperland
+- [ ] Criar um Rice no Hyprland
 - [x] Viver no mundo da imaginação
 - [x] Manter o mindset "No Think. Head Empty"
 
