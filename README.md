@@ -24,6 +24,7 @@
 ### 🎯 Especialidades Atuais:
 - **Colecionador de Estudos** 
 - **Desenvolvedor Python**
+- **Crises existenciais**
 - **Devia colocar mais coisas**
 - **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
@@ -35,7 +36,7 @@ $ brain --status
 > Existential Crisis: Loading... ⏳
 > Code Logic: Functional ✓
 > Social Battery: 23% 🔋
-> ERROR: Non rational creature
+> ERROR: Non rational creature detected
 ```
   
 ## 💻 Tecnologias que Uso (e que às vezes funcionam)
@@ -79,22 +80,6 @@ $ brain --status
 [![Discord Server](https://img.shields.io/badge/Join%20Server-Little%20Dumb%20Thing%20Heaven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eKNdTf2Jnq)
 
 </div>
-
----
-
-## 🌟 Daily Routine
-```python
-def daily_routine():
-    while True:
-        brain.think(False)  # Think is Bad
-        code.debug(randomly=True)
-        game.play(["Linux", "Dark Souls", "Barotrauma"])
-        music.listen("femtanyl")
-        existential_crisis.ponder()
-        if mood == "chaotic":
-            create_new_repo("How to Drink Water")
-        sleep(optional=True)
-```
 
 ---
     
