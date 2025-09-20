@@ -27,14 +27,6 @@
 - **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
 
-## 🎵 Currently Vibing To
-```yaml
-Now Playing: femtanyl
-Progress: ███████░░░░░░░░░░░░░ 00:46 / 02:16
-Volume: ████████░░ 80%
-Mood: Chaotic Good
-```
-
 ## 🧠 Mental State
 ```bash
 $ brain --status
@@ -45,7 +37,6 @@ $ brain --status
 > ERROR: Non rational creature
 ```
 
-<div>
   
 ### 💻 Tecnologias que Uso (e que às vezes funcionam)
 
@@ -53,19 +44,12 @@ $ brain --status
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
-
-<div>
 
 ### Plataformas onde gasto meu tempo
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-</div>
 
 
 ## 📊 GitHub Analytics & Achievements
@@ -128,7 +112,7 @@ def daily_routine():
 ## 🎯 Life Philosophy
 > *"Amo fazer de meu ego o separador de uma linha tênue entre razão e ilusão"*
 > 
-> *"I lack braincells and the mental stability to function on a daily basis"* 🕳️
+> *"I lack braincells and the mental stability to function on a daily basis"* 🔥
 
 ```
 ┌─────────────────────────────────────┐
@@ -143,6 +127,6 @@ def daily_routine():
 
 * São José dos Campos - SP*
 
-**"Se você chegou até aqui, parabéns! Você tem mais paciência que meus bugs."**
+**"Se você chegou até aqui, parabéns! Você tem mais paciência que meus códigos tem de bugs."**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CordeiroGente&color=blueviolet&style=for-the-badge)
