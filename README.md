@@ -76,7 +76,7 @@ $ brain --status
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Little+Dumb+Thing+Heaven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eKNdTf2Jnq)
+[![Discord](https://img.shields.io/badge/Discord-Little-Dumb-Thing-Heaven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eKNdTf2Jnq)
 
 
 </div>
