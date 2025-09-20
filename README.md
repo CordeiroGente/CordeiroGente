@@ -118,8 +118,10 @@ def daily_routine():
 
 **"Se você chegou até aqui, parabéns! Você tem mais paciência que meus códigos tem de bugs."**
 
-## FAQ
+## ❓ FAQ
 
 - Não, eu não sei o porquê do meu costume de falar pt-br e gringo no mesmo texto
+
+  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CordeiroGente&color=blueviolet&style=for-the-badge)
