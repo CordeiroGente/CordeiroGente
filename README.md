@@ -27,6 +27,15 @@
 - **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
 
+## 🎵 Currently Vibing To
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?username=portugaph&theme=dark)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=portugaph&theme=dark)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=30363d)](https://open.spotify.com/user/portugaph)
+
+</div>
+
 ## 🧠 Mental State
 ```bash
 $ brain --status
