@@ -30,9 +30,7 @@
 ## 🎵 Currently Vibing To
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing?username=portugaph&theme=dark)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=portugaph&theme=dark)
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=30363d)](https://open.spotify.com/user/portugaph)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/portugaph)
 
 </div>
 
