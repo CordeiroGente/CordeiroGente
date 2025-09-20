@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre Este (Provável) Ser Humano
 
-**CordeiroGente**, Colecionando profissional de bugs e tentando entender por que meu código funciona só se ter um jpg de um coco nos arquivos. ![Bug Status](https://img.shields.io/badge/Bugs-It's%20a%20feature-00ff7f?style=for-the-badge)
+**CordeiroGente**, Colecionando profissional de bugs e tentando entender por que meu código funciona só se ter um jpg de um coco nos arquivos.
 
 
 ### 🎯 Especialidades Atuais:
@@ -38,6 +38,7 @@ $ brain --status
 > ERROR: Non rational creature
 ```
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroGente&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true)](https://github.com/CordeiroGente)
   
 ## 💻 Tecnologias que Uso (e que às vezes funcionam)
 
