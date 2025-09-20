@@ -37,8 +37,6 @@ $ brain --status
 > Social Battery: 23% 🔋
 > ERROR: Non rational creature
 ```
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroGente&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true)](https://github.com/CordeiroGente)
   
 ## 💻 Tecnologias que Uso (e que às vezes funcionam)
 
@@ -80,7 +78,7 @@ $ brain --status
 - [ ] Conseguir explicar por que meu código funciona
 - [ ] Criar um Rice no Hyprland
 - [x] Viver no mundo da imaginação
-- [x] Manter o mindset "No Think. Head Empty"
+- [x] Criou um bug que nem o StackOverflow conseguiu resolver (It's a Feature)
 
 ## 🤝 Conecte-se Comigo!
 
