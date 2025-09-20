@@ -58,20 +58,10 @@ $ brain --status
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CordeiroGente&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=00ff7f&text_color=ffffff&title_color=00ff7f)](https://github.com/CordeiroGente)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroGente&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](https://github.com/CordeiroGente)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=CordeiroGente&theme=dark&border=30363d&background=0d1117&stroke=00ff7f&ring=00ff7f&fire=ff6b6b&currStreakLabel=00ff7f)](https://github.com/CordeiroGente)
 
 </div>
 
-### 🔥 Destaque dos Repositórios
-
-<div align="center">
-
-[![Nada](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Nada+que+vale+a+pena&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
-[![Ainda...](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Ainda...&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
-
-</div>
 
 ### 🎯 Objetivos 2024-2025:
 - [ ] Descobrir o que tem debaixo da minha cama 
