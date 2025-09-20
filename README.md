@@ -27,6 +27,15 @@
 - **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
 
+## 🌈 Current Mood
+<div align="center">
+
+![Mood](https://img.shields.io/badge/Mood-Chaotic%20Neutral-ff6b6b?style=for-the-badge)
+![Coffee Level](https://img.shields.io/badge/Coffee%20Level-404%20Not%20Found-8B4513?style=for-the-badge)
+![Bug Status](https://img.shields.io/badge/Bugs-It's%20a%20feature-00ff7f?style=for-the-badge)
+
+</div>
+
 ## 🧠 Mental State
 ```bash
 $ brain --status
