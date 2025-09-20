@@ -27,13 +27,6 @@
 - **Mas vou me esconder falando que esse é o Beta do README**
 - 😎
 
-## 🎵 Currently Vibing To
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/portugaph)
-
-</div>
-
 ## 🧠 Mental State
 ```bash
 $ brain --status
