@@ -38,14 +38,14 @@ $ brain --status
 ```
 
   
-### 💻 Tecnologias que Uso (e que às vezes funcionam)
+## 💻 Tecnologias que Uso (e que às vezes funcionam)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Plataformas onde gasto meu tempo
+## Plataformas onde gasto meu tempo
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
