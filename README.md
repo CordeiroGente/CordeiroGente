@@ -12,11 +12,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)](https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)
 [![Instagram](https://img.shields.io/badge/Instagram-@cordeiro__gente-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordeiro_gente/)
-[![Discord](https://img.shields.io/badge/Discord-placophobia%234364-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-placophobia-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 
 </div>
 
-## 🚀 Sobre Este Ser Humano (Provavelmente)
+## 🚀 Sobre Este (Provável) Ser Humano
 
 **CordeiroGente**, Colecionando profissional de bugs e tentando entender por que meu código funciona só se ter um jpg de um coco nos arquivos.
 
