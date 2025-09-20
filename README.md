@@ -52,13 +52,9 @@ $ brain --status
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 
-## 📊 GitHub Analytics & Achievements
+## 📊 Minha Atividade no Github
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CordeiroGente&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=00ff7f&text_color=ffffff&title_color=00ff7f)](https://github.com/CordeiroGente)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CordeiroGente&theme=dark&border=30363d&background=0d1117&stroke=00ff7f&ring=00ff7f&fire=ff6b6b&currStreakLabel=00ff7f)](https://github.com/CordeiroGente)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CordeiroGente&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true)](https://github.com/CordeiroGente)
 
