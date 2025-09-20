@@ -70,7 +70,7 @@ $ brain --status
 - [ ] Conseguir explicar por que meu código funciona
 - [ ] Criar um Rice no Hyprland
 - [x] Viver no mundo da imaginação
-- [x] Criou um bug que nem o StackOverflow conseguiu resolver (It's a Feature)
+- [x] Criar um bug que nem o StackOverflow conseguiu resolver (It's a Feature)
 
 ## 🤝 Meu Servidor do Discord!
 
