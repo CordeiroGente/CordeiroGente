@@ -68,8 +68,8 @@ $ brain --status
 
 <div align="center">
 
-[![Nada](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Trabalho-Pim&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
-[![Ainda...](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Study&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
+[![Nada](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Nada+que+vale+a+pena&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
+[![Ainda...](https://github-readme-stats.vercel.app/api/pin/?username=CordeiroGente&repo=Ainda...&theme=dark&bg_color=0d1117&border_color=30363d&text_color=ffffff&title_color=00ff7f)](x)
 
 </div>
 
