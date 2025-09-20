@@ -30,7 +30,7 @@
 ## 🎵 Currently Vibing To
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/portugaph)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=portugaph&unique=true)](https://open.spotify.com/user/portugaph)
 
 </div>
 
