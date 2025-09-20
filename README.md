@@ -72,13 +72,11 @@ $ brain --status
 - [x] Viver no mundo da imaginação
 - [x] Criou um bug que nem o StackOverflow conseguiu resolver (It's a Feature)
 
-## 🤝 Conecte-se Comigo!
+## 🤝 Meu Servidor do Discord!
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/Vamos_Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-perrenchelle-cordeiro-787466182/)
-[![Instagram Badge](https://img.shields.io/badge/Vida_Paralela-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cordeiro_gente/)
-[![Discord](https://img.shields.io/badge/Discord-placophobia%234364-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-Little+Dumb+Thing+Heaven-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eKNdTf2Jnq)
 
 
 </div>
