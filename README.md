@@ -76,7 +76,7 @@ $ brain --status
 
 ### 🎯 Objetivos 2024-2025:
 - [ ] Descobrir o que tem debaixo da minha cama 
-- [ ] Conseguir explicar por que meu código funciona
+- [ ] Desenvolver um jogo
 - [ ] Criar um Rice no Hyprland
 - [x] Viver no mundo da imaginação
 - [x] Criar um bug que nem o StackOverflow conseguiu resolver (It's a Feature)
